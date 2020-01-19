@@ -7,6 +7,8 @@ I have followed MVVM architecture to build this application.
 * As per requirement we need to show name/email/birthday of a user after login. But to get birthday field from fb graph api, we need to submit this app for review to facebook. As this is a small assignment I didn't do that.
 * Added custum login functionality as well. So, user is not forced to use login through facebook only.
 
+<img src="login-screen.png" width="300" height="600"/> <img src="user-info.png" width="300" height="600"/>
+
 ## Requirements
 
 1. Xcode 11
