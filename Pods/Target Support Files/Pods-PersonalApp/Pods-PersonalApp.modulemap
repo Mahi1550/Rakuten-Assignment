@@ -1,0 +1,6 @@
+framework module Pods_PersonalApp {
+  umbrella header "Pods-PersonalApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
